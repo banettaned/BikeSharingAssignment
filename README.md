@@ -1,4 +1,10 @@
 # Bike Sharing Demand Prediction
+This project aims to predict the daily demand for shared bikes in an urban environment using historical data from BoomBikes. 
+By analyzing various factors such as season, weather conditions, temperature, and other relevant features, the project builds a multiple linear regression model to understand and quantify the impact of these variables on bike rentals. 
+
+The goal is to help the bike sharing company optimize its operations, plan inventory, and make data-driven decisions to improve service and profitability. 
+
+The approach includes data cleaning, feature engineering, exploratory data analysis, model building, and evaluation, with a focus on interpreting the results and validating model assumptions. Key findings highlight the importance of seasonality and weather, and the model provides actionable insights for business strategy.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -24,7 +30,7 @@
 - statsmodels
 
 ## Acknowledgements
-- This project was inspired by the BoomBikes assignment and various online tutorials on regression modeling.
+- This project was inspired by the Bike Sharing assignment in the course of Upgrad Learning material.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@banettaned] - feel free to contact me!
